@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Danecek
+- 🌱 I’m currently learning´: Python basics
